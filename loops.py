@@ -38,3 +38,6 @@ for student in age_sorted:
     print(student)
 
 # Get the oldest student from Nigeria
+
+# TODO functions as a parameter
+# decorator
