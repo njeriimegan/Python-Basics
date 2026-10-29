@@ -5,7 +5,7 @@ video_url = "https://www.youtube.com/shorts/lAn_EMae_Uo"
 options = {
     "format": "bestaudio/best",
     "outtmpl": "%(title)s.%(ext)s",
-    "ffmpeg_location": r"C:\ffmpeg\bin",
+    # "ffmpeg_location": r"C:\ffmpeg\bin",
     "postprocessors": [
         {
             "key": "FFmpegExtractAudio",
